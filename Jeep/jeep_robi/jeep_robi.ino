@@ -1,5 +1,7 @@
 //*** 1- Documentation
-
+//Bluetooth car  controlled by Android app with arduino
+//Servo mounted on the roof
+//No lights implemented
 //This program is used to control a robot car using a app that communicates with Arduino trough a bluetooth module
 
 #include <AFMotor.h>
